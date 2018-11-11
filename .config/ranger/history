@@ -1,0 +1,13 @@
+wq
+delete light
+~/.zsh_history
+cd ~/.zsh_history
+tar -xf
+extracthere
+open_with 
+open_with 1
+bulkrename
+rename tor-browser.tar.xz
+delete
+tar xJpf tor-browser.tar.xz -C ~/
+
